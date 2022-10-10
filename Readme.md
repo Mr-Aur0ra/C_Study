@@ -10,7 +10,7 @@
 
 Github项目地址：(https://github.com/Mr-Aur0ra/C_Study)
 
-创作不易，你的`点赞`和`Star`就是对我最大的支持。
+创作不易，您的`点赞`和`Star`就是对我最大的支持。
 
 可以通过[Mr.Aur0ra's Blog](https://www.0x613664.com/)或[知乎C_Study专栏](https://www.zhihu.com/column/c_1562837567783034880)的在线方式学习。也可以下载该项目到本地，然后通过markdown编辑器(推荐Typora)打开学习。
 
