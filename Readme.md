@@ -14,6 +14,8 @@ Github项目地址：(https://github.com/Mr-Aur0ra/C_Study)
 
 可以通过[Mr.Aur0ra's Blog](https://www.0x613664.com/)或[知乎C_Study专栏](https://www.zhihu.com/column/c_1562837567783034880)的在线方式学习。也可以下载该项目到本地，然后通过markdown编辑器(推荐Typora)打开学习。
 
+真心地希望该系列教程可以帮助大家打好C语言的基础。
+
 
 
 其他：
